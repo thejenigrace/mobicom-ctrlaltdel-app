@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:baselineAligned="false"
+    android:background="@color/material_design_orange_500"
+    tools:context="com.mobicom.ctrlaltdel.camera.CameraMainFragment" >
+    
+    <LinearLayout
+    	style="?android:attr/actionBarStyle"
+        android:layout_width="match_parent"
+       	android:layout_height="45dp"
+       	android:contentDescription="@string/imagebutton_cancel" >
+            
+        <ImageButton
+        	android:id="@+id/camera_cancel"
+            style="?android:attr/actionBarStyle"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_action_cancel"
+            android:contentDescription="@string/return_main" />
+            
+	</LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/preview"
+        android:orientation="vertical"
+        android:padding="10dp" 
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/preview"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/save_note_in_course"
+            android:textColor="@color/material_design_orange_50"
+            android:textSize="32sp"
+            android:textStyle="italic" />
+
+       <Spinner
+           	android:id="@+id/spinner_saved_courses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center" />
+    </LinearLayout>
+
+  	<LinearLayout
+  	    android:layout_width="match_parent"
+  	    android:layout_height="0dp"
+  	    android:layout_weight="1"
+  	    android:gravity="center"
+  	    android:orientation="vertical" >
+
+  	    <ImageButton
+  	        android:id="@+id/capture_image"
+  	        android:layout_width="80dp"
+  	        android:layout_height="80dp"
+  	        android:background="@drawable/ic_recurrence_bubble_disabled"
+  	        android:src="@drawable/ic_action_camera" 
+  	        android:contentDescription="@string/imagebutton_open_camera"/>
+  	</LinearLayout>
+
+</LinearLayout>

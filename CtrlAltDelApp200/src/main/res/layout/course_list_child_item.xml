@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/material_design_teal_50" >
+
+    <TextView
+        android:id="@+id/tv_course_eventname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:paddingEnd="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="@string/eventname"
+        android:textColor="@color/material_design_grey_900"
+        android:textSize="20sp" />
+    
+    <TextView
+        android:id="@+id/tv_course_eventdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:fontFamily="sans-serif-condensed"
+        android:paddingStart="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:paddingEnd="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:text="@string/eventdate"
+        android:textColor="@color/material_design_grey_900"
+        android:textSize="20sp" />
+ 
+</LinearLayout>

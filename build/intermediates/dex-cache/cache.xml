@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jennica/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-09871922eaa6a2a5b6e05d540ef91492cbc38e04.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_stickylistheaders/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="968c98ec2615e2ed8d2c733ea70e1811fd85c9f0">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-4cd5ece5e839aad90546e716b0c952a81d0a78f7.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.5/c73038a3688525aad5cf33409df483178290cd64/joda-time-2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/joda-time-2.5-ef6683d3d1e9e8b5419eb96718423cad119adb6f.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_caldroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3fb9318df71a5aed998f9b664be1578f4a6fd9ea">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-dc83c0ff9bb46ec39143b4192005322e9e2dd75e.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-442bbbe0e8062ae09802719486d7c842134a9b12.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_floatingactionbutton/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebea0bb60cb70f36ca8e62cbd5bf83ee306bdcf6">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-0e51505461a324e60c943008b5dccddf8950084f.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_nineoldandroids/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cad1e4a5585386322b91771a5d474f5be22cf524">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-d5ff4f0491bfb16ace18132d556513fe5db70623.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-1dd7f050c0ae2d9a60985107fc8f6a21ffbbb483.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_caldroid/unspecified/libs/date4j.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="18889a91ddc87a008bce37fb516047f8aa43331a">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/date4j-f13d62dbe5757d904b0d246140c1bcb8c9f2891b.jar" />
+    </item>
+    <item
+        jar="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/exploded-aar/CtrlAltDel App 2.0.0/library_betterpicker/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1ec2f4a2c6240536ae399dc1019ce8757242bb0">
+        <dex dex="/Users/Jennica/AndroidStudioProjects/CtrlAltDel App 2.0.0/CtrlAltDelApp200/build/intermediates/pre-dexed/debug/classes-74f3f86ba03ae8e5f75e92523ce53cb1a82159e6.jar" />
+    </item>
+
+</items>

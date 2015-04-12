@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Jennica/AndroidStudioProjects/CtrlAltDel%20App%202.0.0/library_caldroid/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="caldroid_black">#000000</color>
+    <color name="caldroid_darker_gray">#aaa</color>
+    <color name="caldroid_gray">#CCC</color>
+    <color name="caldroid_holo_blue_dark">#ff0099cc</color>
+    <color name="caldroid_holo_blue_light">#70EEFF</color>
+    <color name="caldroid_lighter_gray">#ddd</color>
+    <color name="caldroid_sky_blue">#00BCD4</color>
+    <color name="caldroid_transparent">#00000000</color>
+    <color name="caldroid_white">#FFFFFF</color>
+    <color name="seaglass_hues_bg">#70ad88</color>
+    <color name="seaglass_hues_button">#3e6268</color>
+    <color name="seaglass_hues_grayed">#8cc0a0</color>
+    <color name="seaglass_hues_present">#fbf9e0</color>
+    <color name="seaglass_hues_selected">#4b4b4b</color>
+    <color name="seaglass_hues_shadow">#d3e6da</color>
+    <!-- From: file:/Users/Jennica/AndroidStudioProjects/CtrlAltDel%20App%202.0.0/library_caldroid/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CalendarFragment</string>
+    <!-- From: file:/Users/Jennica/AndroidStudioProjects/CtrlAltDel%20App%202.0.0/library_caldroid/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

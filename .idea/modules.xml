@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CtrlAltDel App 2.0.0.iml" filepath="$PROJECT_DIR$/CtrlAltDel App 2.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CtrlAltDelApp200/CtrlAltDelApp200.iml" filepath="$PROJECT_DIR$/CtrlAltDelApp200/CtrlAltDelApp200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_betterpicker/library_betterpicker.iml" filepath="$PROJECT_DIR$/library_betterpicker/library_betterpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_caldroid/library_caldroid.iml" filepath="$PROJECT_DIR$/library_caldroid/library_caldroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_floatingactionbutton/library_floatingactionbutton.iml" filepath="$PROJECT_DIR$/library_floatingactionbutton/library_floatingactionbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_nineoldandroids/library_nineoldandroids.iml" filepath="$PROJECT_DIR$/library_nineoldandroids/library_nineoldandroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_stickylistheaders/library_stickylistheaders.iml" filepath="$PROJECT_DIR$/library_stickylistheaders/library_stickylistheaders.iml" />
+    </modules>
+  </component>
+</project>
+

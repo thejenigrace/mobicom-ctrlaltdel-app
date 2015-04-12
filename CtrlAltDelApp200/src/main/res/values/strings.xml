@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   	<string name="app_name">CtrlAltDel</string>
+    
+    <!-- For OptionsMenu -->
+    <string name="action_settings">Settings</string>
+    <string name="action_done">Done</string>
+    <string name="action_graphic_note">Graphic Note Camera</string>
+    <string name="action_new_course">New Course</string>
+    
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    
+     <!-- Strings for SplitView -->
+    <string name="tv_schedule_monthday">Schedule Month Day</string>
+    <string name="tv_schedule_dayoftheweek">Schedule Day of the Week</string>
+
+    <!-- Strings for Event -->
+    <string name="empty">No Events</string>
+    
+    <string name="eventname">Event Name</string>
+    <string name="eventtime">Event Time</string>
+    <string name="eventallday">ALL DAY</string>
+    <string name="startdate">Start Date</string>
+    <string name="starttime">Start Time</string>
+    <string name="enddate">End Date</string>
+    <string name="endtime">End Time</string>
+    <string name="eventtimezone">Set Time Zone</string>
+    <string name="eventlocation">Add Location</string>
+    <string name="eventdescription">Add Description</string>
+    <string name="eventrecurrence">One-Time Event</string>
+ 	
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="repitition">REPITITION</string>
+    <string name="reminder">REMINDER</string>
+    <string name="notification">Notification</string>
+    <string name="header_name">Header Name</string>
+    <string name="course">COURSE</string>
+    
+    <string name="imagebutton_cancel">Cancel Button</string>
+    <string name="imagebutton_accept">Accept Button</string>
+    
+    <!-- Strings for New Course -->
+    <string name="coursename">Course Name</string>
+    <string name="courselocation">Location</string>
+    <string name="dayofweek">Day of the Week</string>
+    <string name="coursetime">Time</string>
+    <string name="eventdate">Event Date</string>
+    
+    <!-- Strings for Camera -->
+    <string name="preview">Preview</string>
+    <string name="takeapicture">Take a Picture</string>
+    <string name="imageview_folder">Course Folder</string>
+    <string name="foldername">Folder Name</string>
+    <string name="imageview_image">Course Folder Images</string>
+    <string name="save_note_in_course">Save Note in Course</string>
+    <string name="imagebutton_open_camera">Open Camera</string>
+    <string name="return_main">RETURN</string>
+    
+    <!-- Strings for Splash -->
+    <string name="imageview_logo">App Logo</string>
+    <string name="splash_copyright">"@ Copyright 2014</string>
+    <string name="splash_company_name">Alcalde-Chua-Ong Inc.</string>
+    <string name="splash_version">Version 1.0.0</string>
+    
+</resources>

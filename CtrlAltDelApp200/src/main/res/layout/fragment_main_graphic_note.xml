@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    tools:context="com.mobicom.ctrlaltdel.note.NoteMainFragment" >
+	
+    <GridView
+	    android:id="@+id/gridview_course_folders"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="start"
+	    android:padding="10dp"
+	    android:numColumns="3" />
+    
+</FrameLayout>

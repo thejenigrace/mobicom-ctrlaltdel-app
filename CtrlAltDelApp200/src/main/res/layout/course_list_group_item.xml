@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/material_design_teal_500" >
+  
+    <TextView
+        android:id="@+id/tv_course_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:paddingEnd="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:text="@string/coursename"
+        android:textColor="@color/material_design_teal_50"
+        android:textSize="24sp" />
+     
+ 	<TextView
+ 	    android:id="@+id/tv_course_location"
+ 	    android:layout_width="match_parent"
+ 	    android:layout_height="wrap_content"
+ 	    android:fontFamily="san-serif-regular"
+ 	    android:paddingEnd="?android:attr/expandableListPreferredItemPaddingLeft"
+ 	    android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+ 	    android:text="@string/courselocation"
+ 	    android:textColor="@color/material_design_teal_50"
+ 	    android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_course_dayofweek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:paddingEnd="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:text="@string/dayofweek"
+        android:textColor="@color/material_design_teal_50"
+        android:textSize="18sp" />
+    
+    <TextView
+        android:id="@+id/tv_course_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="san-serif-regular"
+        android:paddingEnd="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:text="@string/coursetime"
+        android:textColor="@color/material_design_teal_50"
+        android:textSize="18sp" />
+     
+</LinearLayout>

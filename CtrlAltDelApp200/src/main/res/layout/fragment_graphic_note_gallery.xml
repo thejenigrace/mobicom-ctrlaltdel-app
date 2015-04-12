@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+    	style="?android:attr/actionBarStyle"
+        android:layout_width="match_parent"
+       	android:layout_height="45dp"
+       	android:contentDescription="@string/imagebutton_cancel" >
+            
+        <ImageButton
+        	android:id="@+id/gallery_back"
+            style="?android:attr/actionBarStyle"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_arrow_left"
+            android:contentDescription="@string/imagebutton_cancel" />
+            
+	</LinearLayout>
+
+    <GridView
+        android:id="@+id/gridview_pictures"
+        android:stretchMode="columnWidth"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+    	android:layout_marginStart="@dimen/activity_horizontal_margin"
+    	android:layout_marginEnd="@dimen/activity_horizontal_margin"
+    	android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:numColumns="auto_fit"
+        android:horizontalSpacing="2dp"
+        android:verticalSpacing="2dp" />
+
+</LinearLayout>

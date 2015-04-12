@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.mobicom.ctrlaltdel.app.amain"
+        minSdkVersion 19
+        targetSdkVersion 21
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':library_betterpicker')
+    compile project(':library_floatingactionbutton')
+    compile project(':library_stickylistheaders')
+    compile project(':library_caldroid')
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'joda-time:joda-time:2.5'
+}

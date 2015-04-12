@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/material_design_deep_purple_500" >
+	
+    
+    <com.mobicom.ctrlaltdel.app.view.UnderlineTextView
+        android:id="@+id/header_tv_event_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:padding="8dp"
+        android:textColor="@color/material_design_deep_purple_50"
+        android:textSize="25sp"
+        android:text="@string/header_name"
+        android:textStyle="bold" /> 
+    
+
+     <!-- <TextView
+        android:id="@+id/header_tv_event_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:padding="8dp"
+        android:text="Header Name"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" /> -->
+    
+</RelativeLayout>
